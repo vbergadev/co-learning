@@ -1,0 +1,19 @@
+- CSS Responsivo (forms)
+- JS Fundamentos(HOF)
+- Validações (login) (middleware)
+- "linkar" as informações no backend
+- Armazenamento temporário (cookie e session)
+- Gerenciamento de Rotas
+- Abstração Modelagem banco (Entidade e atributo)
+
+
+***O Projeto***
+
+Banco DH10
+
+- CRUD User
+- Crud Extrato
+- Funcoes de saque e depósito
+Dia 1 - REadme - Form de cadastro responsivo - Modelagem Banco User (model  - sequelize);
+Dia 2 - Validação Login - mostrar dados usuario na tela - Operações Bancárias
+
